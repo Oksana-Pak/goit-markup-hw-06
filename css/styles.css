@@ -695,9 +695,6 @@ p {
   flex-direction: column;
   margin-bottom: 20px;
 }
-/* .form-field:not(:last-of-type) {
-  margin-bottom: 10px;
-} */
 .form-label {
   display: block;
   margin-bottom: 4px;
